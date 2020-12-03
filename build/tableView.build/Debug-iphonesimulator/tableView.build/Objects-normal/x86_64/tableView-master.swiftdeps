@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "607f6ffbba2e5250976c1d820e3b1ca7"
+build_time: [1606960757, 518078000]
+inputs:
+  "/Users/gilmarqueiroz/Documents/tableView/tableView/Cell/CellTableViewCell.swift": [1606960757, 455350107]
+  "/Users/gilmarqueiroz/Documents/tableView/tableView/Model/User.swift": [1606957912, 408023901]
+  "/Users/gilmarqueiroz/Documents/tableView/tableView/ViewController.swift": [1606920967, 369655885]
+  "/Users/gilmarqueiroz/Documents/tableView/tableView/AppDelegate.swift": [1606920967, 358829581]
+  "/Users/gilmarqueiroz/Documents/tableView/tableView/SceneDelegate.swift": [1606920967, 366360453]
+  "/Users/gilmarqueiroz/Documents/tableView/tableView/TableViewController.swift": [1606959828, 137146040]
